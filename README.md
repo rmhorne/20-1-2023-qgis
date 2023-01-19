@@ -22,4 +22,5 @@ We will be demoing Recogito as a web-based platform for creating Linked Open Dat
 This is necessary to use some of the plugins for QGIS that we will demonstrate in the workshop.
 
 ## Workshop Data
-Although almost all of the data that we use for the workshop is easily downloadable, I will mirror it in this repository for ease of access.
+Although almost all of the data that we use for the workshop is easily downloadable, I will mirror it in this repository for ease of access. The only exception is the raster data from [Natural Earth](https://www.naturalearthdata.com/), as it is too large to host on GitHub. Please download the large size [Natural Earth II with Shaded Relief and Water
+](https://www.naturalearthdata.com/downloads/10m-raster-data/10m-natural-earth-2/) prior to the start of the workshop.
